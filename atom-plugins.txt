@@ -1,0 +1,17 @@
+atom-beautify
+autoclose-html
+emmet
+file-icons
+highlight-selected
+javascript-snippets
+linter
+linter-csslint
+linter-htmlhint
+linter-jshint
+markdown-writer
+minimap
+minimap-highlight-selected
+open-recent
+todo-show
+seti-ui
+atom-monokai
